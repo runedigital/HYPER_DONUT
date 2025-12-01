@@ -1,0 +1,21 @@
+{
+  "name": "rune-hyper-donut",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": ">=18",
+    "three": ">=0.160",
+    "@react-three/fiber": "latest",
+    "@react-three/drei": "latest",
+    "@react-three/postprocessing": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
